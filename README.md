@@ -37,9 +37,4 @@ A Windows Forms application designed to perform various system cleanup and repai
 - Windows 7/8/10/11 (64-bit recommended)
 - Administrator privileges
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/windows-repair-utility.git
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5TRISN)
